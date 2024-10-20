@@ -1,2 +1,0 @@
-# SCA.com
-The SpaceCoderArcade
